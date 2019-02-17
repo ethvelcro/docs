@@ -21,7 +21,7 @@ Main Contract Address: `0xeb458b030d6be178e301910f7077955574bb7be4`
 
 Docker Image: https://hub.docker.com/r/ethvelcro/velcro-node
 
-Public: https://api.ethvelcro.network and wss://api.ethvelcro.network
+Public: https://api.ethvelcro.network and [wss://api.ethvelcro.network](wss://api.ethvelcro.network)
 
 ## modes
 The Velcro stack can run in one of two modes:
