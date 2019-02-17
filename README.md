@@ -11,7 +11,7 @@ Public: https://velcro.netlify.com/
 
 ### contracts
 
-[velcro-conracts](https://github.com/ethvelcro/velcro-contracts)
+[velcro-contracts](https://github.com/ethvelcro/velcro-contracts)
 
 Main Contract Address: `0xeb458b030d6be178e301910f7077955574bb7be4`
 
