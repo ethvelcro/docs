@@ -1,3 +1,9 @@
+# [DEPRECATED]
+
+This repo was created for the ETHDenver 2019 Hackathon.  We're keeping this available for historical purposes.
+
+The project has been rebranded as Notus.  You can refer to the new Notus node [Github project](https://github.com/NotifyUs/notus-docs).
+
 # Velcro Platform
 
 Velcro allows you to listen to the Ethereum blockchain with webhooks.
